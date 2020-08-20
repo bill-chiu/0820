@@ -2,8 +2,6 @@ Lab: 一個簡單但可以運作的 REST API
 
 <Note> 一個結構儘可能簡單但可以運作的 REST API
 
-
-
 1.  路由設定與測試
 
 
@@ -51,8 +49,8 @@ switch ($method . " " . $url[0]) {
 http://localhost/專案名稱/Lab_REST_API/api/products/1
 http://localhost/專案名稱/Lab_REST_API/api/products
 例如:
-http://localhost/190720/Lab_REST_API/api/products/1
-http://localhost/190720/Lab_REST_API/api/products
+http://localhost/0820/Lab_REST_API/api/products/1
+http://localhost/0820/Lab_REST_API/api/products
 
 
 
