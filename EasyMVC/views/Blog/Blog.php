@@ -6,9 +6,6 @@
     <title>Lab</title>
 </head>
 <body>
-    <H1>Hello! <?= $viewBag->name ?></H1>
-
-    <h2><?= $viewBag->name ?></h2>
-    <h3><?= $viewBag->name ?></h3>
+    <H1>Blog! <?= $data->name ?></H1>
 </body>
 </html>
