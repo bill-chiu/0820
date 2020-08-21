@@ -373,4 +373,4 @@ class HomeController extends Controller {
 
 
 7.5 在瀏覽器以下列網址測試:
-http://localhost/EasyMVC/Home/hello/Chien
+http://localhost:8888/0820/EasyMVC/Home/hello/Chien
